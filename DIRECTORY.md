@@ -29,6 +29,7 @@
           - 📄 [BcdConversion](src/main/java/com/thealgorithms/bitmanipulation/BcdConversion.java)
           - 📄 [BinaryPalindromeCheck](src/main/java/com/thealgorithms/bitmanipulation/BinaryPalindromeCheck.java)
           - 📄 [BitSwap](src/main/java/com/thealgorithms/bitmanipulation/BitSwap.java)
+          - 📄 [BitwiseGCD](src/main/java/com/thealgorithms/bitmanipulation/BitwiseGCD.java)
           - 📄 [BooleanAlgebraGates](src/main/java/com/thealgorithms/bitmanipulation/BooleanAlgebraGates.java)
           - 📄 [ClearLeftmostSetBit](src/main/java/com/thealgorithms/bitmanipulation/ClearLeftmostSetBit.java)
           - 📄 [CountLeadingZeros](src/main/java/com/thealgorithms/bitmanipulation/CountLeadingZeros.java)
@@ -718,6 +719,7 @@
         - 📁 **strings**
           - 📄 [AhoCorasick](src/main/java/com/thealgorithms/strings/AhoCorasick.java)
           - 📄 [Alphabetical](src/main/java/com/thealgorithms/strings/Alphabetical.java)
+          - 📄 [AlternativeStringArrange](src/main/java/com/thealgorithms/strings/AlternativeStringArrange.java)
           - 📄 [Anagrams](src/main/java/com/thealgorithms/strings/Anagrams.java)
           - 📄 [CharactersSame](src/main/java/com/thealgorithms/strings/CharactersSame.java)
           - 📄 [CheckVowels](src/main/java/com/thealgorithms/strings/CheckVowels.java)
@@ -780,6 +782,7 @@
           - 📄 [BcdConversionTest](src/test/java/com/thealgorithms/bitmanipulation/BcdConversionTest.java)
           - 📄 [BinaryPalindromeCheckTest](src/test/java/com/thealgorithms/bitmanipulation/BinaryPalindromeCheckTest.java)
           - 📄 [BitSwapTest](src/test/java/com/thealgorithms/bitmanipulation/BitSwapTest.java)
+          - 📄 [BitwiseGCDTest](src/test/java/com/thealgorithms/bitmanipulation/BitwiseGCDTest.java)
           - 📄 [BooleanAlgebraGatesTest](src/test/java/com/thealgorithms/bitmanipulation/BooleanAlgebraGatesTest.java)
           - 📄 [ClearLeftmostSetBitTest](src/test/java/com/thealgorithms/bitmanipulation/ClearLeftmostSetBitTest.java)
           - 📄 [CountLeadingZerosTest](src/test/java/com/thealgorithms/bitmanipulation/CountLeadingZerosTest.java)
@@ -1391,6 +1394,7 @@
         - 📁 **strings**
           - 📄 [AhoCorasickTest](src/test/java/com/thealgorithms/strings/AhoCorasickTest.java)
           - 📄 [AlphabeticalTest](src/test/java/com/thealgorithms/strings/AlphabeticalTest.java)
+          - 📄 [AlternativeStringArrangeTest](src/test/java/com/thealgorithms/strings/AlternativeStringArrangeTest.java)
           - 📄 [AnagramsTest](src/test/java/com/thealgorithms/strings/AnagramsTest.java)
           - 📄 [CharactersSameTest](src/test/java/com/thealgorithms/strings/CharactersSameTest.java)
           - 📄 [CheckVowelsTest](src/test/java/com/thealgorithms/strings/CheckVowelsTest.java)
